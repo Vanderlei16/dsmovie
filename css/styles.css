@@ -63,7 +63,7 @@ nav a {
 }
 
 .dsmovie-card{
-   width: 360px;
+   width: 100%;
   
  }
 
@@ -71,7 +71,9 @@ nav a {
    
       width : 100%;
       border-radius: 10px 10px 0 0;
- }
+      max-height: 170px;
+    
+    }
 
  .dsmovie-card-description{
      background-color: var(--white);
