@@ -54,6 +54,7 @@ nav a {
  .dsmovie-contact-container{
      display : flex;
      align-items: center;
+     
  }
 
  .dsmovie-contact-container {
@@ -62,7 +63,7 @@ nav a {
  }
 
 #dsmovie-card-list{
-    padding: 40px 0;
+    padding: 40px 10px;
 }
 
 .dsmovie-card{
@@ -74,7 +75,7 @@ nav a {
    
       width : 100%;
       border-radius: 8px 8px 0 0;
-      max-height: 170px;
+      max-height: 140px;
     
     }
 
@@ -86,14 +87,14 @@ nav a {
      align-items: center;
      justify-content:space-between;
      border-radius: 0 0 8px 8px;
-     height: 220px;
+     height: 190px;
  }
 
  .dsmovie-card-description h3 {
     
      font-size: 14px;
      font-weight: 700;
-     margin-bottom: 25px;
+     margin-bottom: 12px;
      
  }
  .dsmovie-card-description-botton {
