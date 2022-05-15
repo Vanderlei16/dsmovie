@@ -213,7 +213,8 @@ nav a {
   filter:brightness(0) saturate(100%) invert(29%) sepia(26%) saturate(4421%) hue-rotate(228deg) brightness(86%) contrast(90%);
 }
   .dsmovie-pagination-box button:disabled {
-          border: 1px var(--text-light-gray);
+          border: 2px var(--text-gray);
+
   }
   
   .dsmovie-pagination-box button:disabled img {
